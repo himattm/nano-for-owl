@@ -1,18 +1,16 @@
 apply plugin: 'com.android.application'
-
 apply plugin: 'kotlin-android'
-
 apply plugin: 'kotlin-android-extensions'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion Versions.compileSdkVersion
     defaultConfig {
         applicationId "io.github.matthewcmckenna.owl.nano"
-        minSdkVersion 21
-        targetSdkVersion 27
-        versionCode 1
-        versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        minSdkVersion Versions.minSdkVersion
+        targetSdkVersion Versions.targetSdkVersion
+        versionCode Versions.versionCode
+        versionName Versions.versionName
+        testInstrumentationRunner TestLibs.android_junit_runner
     }
     buildTypes {
         release {
@@ -23,19 +21,26 @@ android {
 }
 
 dependencies {
-    def mobileUiDependencies = rootProject.ext.mobileUiDependencies
-
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation mobileUiDependencies.kotlin
-    implementation "io.reactivex.rxjava2:rxjava:2.1.2"
-    implementation 'com.android.support:appcompat-v7:27.1.0'
-    testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'com.android.support.test:runner:1.0.1'
-    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
-    implementation mobileUiDependencies.exoplayer
-    implementation mobileUiDependencies.exoplayerMediaSession
-    implementation mobileUiDependencies.rxKotlin
-    implementation mobileUiDependencies.timber
-    implementation mobileUiDependencies.constraintLayout
+    testImplementation TestLibs.junit
+    androidTestImplementation TestLibs.android_runner
+    androidTestImplementation TestLibs.espresso_core
+
+    implementation Libs.kotlin
+    implementation Libs.rxjava
+    implementation Libs.support_appcompat_v7
+    implementation Libs.animated_vector_drawable
+    implementation Libs.support_media_compat
+
+    implementation Libs.timber
+    implementation Libs.exoplayer
+    implementation Libs.exoplayerHls
+    implementation Libs.exoplayerMediaSession
+    implementation Libs.exoplayerUi
+
+    implementation Libs.appCenterCrashes
+    implementation Libs.appCenterAnalytics
+
+    compile project(path: ':core')
 }
