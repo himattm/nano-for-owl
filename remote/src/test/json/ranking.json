@@ -1,0 +1,737 @@
+{
+  "content": [
+    {
+      "competitor": {
+        "id": 4403,
+        "availableLanguages": [
+          "en",
+          "ru",
+          "ja",
+          "zh-cn",
+          "th",
+          "ko",
+          "es-es",
+          "es-mx",
+          "pt",
+          "zh-tw"
+        ],
+        "handle": "new-york-city.1614",
+        "name": "New York Excelsior",
+        "homeLocation": "New York City, NY",
+        "primaryColor": "171c38",
+        "secondaryColor": "0f57ea",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4403
+            },
+            "division": {
+              "id": 79
+            }
+          },
+          {
+            "competitor": {
+              "id": 4403
+            },
+            "division": {
+              "id": 61
+            }
+          }
+        ],
+        "abbreviatedName": "NYE",
+        "addressCountry": "US",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/9r/9RYLM8FICLJ01508818792450.png",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/page_media/3PBR8VEYM8SH1517250447953.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/page_media/3PBR8VEYM8SH1517250447953.svg",
+        "type": "TEAM"
+      },
+      "placement": 1,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 23,
+          "matchLoss": 3,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 84,
+          "gameLoss": 28,
+          "gameTie": 2,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4402,
+        "availableLanguages": [
+          "en",
+          "ja",
+          "zh-tw",
+          "zh-cn",
+          "th",
+          "ko",
+          "ru"
+        ],
+        "handle": "boston.8698",
+        "name": "Boston Uprising",
+        "homeLocation": "Boston, MA",
+        "primaryColor": "174b97",
+        "secondaryColor": "f2df00",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4402
+            },
+            "division": {
+              "id": 61
+            }
+          },
+          {
+            "competitor": {
+              "id": 4402
+            },
+            "division": {
+              "id": 79
+            }
+          }
+        ],
+        "abbreviatedName": "BOS",
+        "addressCountry": "US",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/43UINMGMA83X1513383982827.png",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/page_media/W4FGQ24HKCB51513383982827.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/page_media/W4FGQ24HKCB51513383982827.svg",
+        "type": "TEAM"
+      },
+      "placement": 2,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 19,
+          "matchLoss": 8,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 69,
+          "gameLoss": 49,
+          "gameTie": 1,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4410,
+        "availableLanguages": [
+          "en",
+          "ru",
+          "ja",
+          "zh-cn",
+          "th",
+          "ko",
+          "es-es",
+          "es-mx",
+          "pt",
+          "zh-tw",
+          "fr",
+          "it"
+        ],
+        "handle": "london.6950",
+        "name": "London Spitfire",
+        "homeLocation": "London",
+        "primaryColor": "ff8200",
+        "secondaryColor": "59cbe8",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4410
+            },
+            "division": {
+              "id": 61
+            }
+          },
+          {
+            "competitor": {
+              "id": 4410
+            },
+            "division": {
+              "id": 79
+            }
+          }
+        ],
+        "abbreviatedName": "LDN",
+        "addressCountry": "GB",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/NW461AQIYQMK1508792363133.png",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg",
+        "type": "TEAM"
+      },
+      "placement": 3,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 17,
+          "matchLoss": 9,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 72,
+          "gameLoss": 40,
+          "gameTie": 1,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4409,
+        "availableLanguages": [
+          "en",
+          "zh-tw",
+          "it",
+          "ru",
+          "ja",
+          "zh-cn",
+          "th",
+          "ko",
+          "es-es",
+          "es-mx",
+          "pt"
+        ],
+        "handle": "seoul.1029",
+        "name": "Seoul Dynasty",
+        "homeLocation": "Seoul",
+        "primaryColor": "aa8a00",
+        "secondaryColor": "000000",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4409
+            },
+            "division": {
+              "id": 61
+            }
+          },
+          {
+            "competitor": {
+              "id": 4409
+            },
+            "division": {
+              "id": 80
+            }
+          }
+        ],
+        "abbreviatedName": "SEO",
+        "addressCountry": "KR",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/LHRSIW3NWH211508792362796.png",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/page_media/E9MU0AK0JIXT1507858876249.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/page_media/E9MU0AK0JIXT1507858876249.svg",
+        "type": "TEAM"
+      },
+      "placement": 4,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 17,
+          "matchLoss": 9,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 63,
+          "gameLoss": 44,
+          "gameTie": 3,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4524,
+        "availableLanguages": [
+          "en",
+          "it",
+          "ru",
+          "ja",
+          "zh-cn",
+          "th",
+          "ko",
+          "es-mx",
+          "pt",
+          "fr",
+          "zh-tw"
+        ],
+        "handle": "fusion.2056",
+        "name": "Philadelphia Fusion",
+        "homeLocation": "Philadelphia, PA",
+        "primaryColor": "ff9e1b",
+        "secondaryColor": "000000",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4524
+            },
+            "division": {
+              "id": 79
+            }
+          },
+          {
+            "competitor": {
+              "id": 4524
+            },
+            "division": {
+              "id": 61
+            }
+          }
+        ],
+        "abbreviatedName": "PHI",
+        "addressCountry": "US",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/3JZTLCPH37QD1508792362853.png",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/LAKZ6R7QEG6S1507822883033.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/LAKZ6R7QEG6S1507822883033.svg",
+        "type": "TEAM"
+      },
+      "placement": 5,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 16,
+          "matchLoss": 10,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 61,
+          "gameLoss": 53,
+          "gameTie": 1,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4405,
+        "availableLanguages": [
+          "en",
+          "zh-cn",
+          "th",
+          "ko",
+          "ru",
+          "ja",
+          "zh-tw"
+        ],
+        "handle": "los-angeles-a.2779",
+        "name": "Los Angeles Valiant",
+        "homeLocation": "Los Angeles, CA",
+        "primaryColor": "4a7729",
+        "secondaryColor": "000000",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4405
+            },
+            "division": {
+              "id": 61
+            }
+          },
+          {
+            "competitor": {
+              "id": 4405
+            },
+            "division": {
+              "id": 80
+            }
+          }
+        ],
+        "abbreviatedName": "VAL",
+        "addressCountry": "US",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/0D8BNUWVZP6B1508792362890.PNG",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/L3U59GQVS1ZK1507822882879.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/L3U59GQVS1ZK1507822882879.svg",
+        "type": "TEAM"
+      },
+      "placement": 6,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 16,
+          "matchLoss": 11,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 64,
+          "gameLoss": 45,
+          "gameTie": 5,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4525,
+        "availableLanguages": [
+          "en",
+          "ko",
+          "ru",
+          "ja",
+          "zh-tw",
+          "zh-cn",
+          "th"
+        ],
+        "handle": "houston.4749",
+        "name": "Houston Outlaws",
+        "homeLocation": "Houston, TX",
+        "primaryColor": "000000",
+        "secondaryColor": "97d700",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4525
+            },
+            "division": {
+              "id": 61
+            }
+          },
+          {
+            "competitor": {
+              "id": 4525
+            },
+            "division": {
+              "id": 79
+            }
+          }
+        ],
+        "abbreviatedName": "HOU",
+        "addressCountry": "US",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/HLRHYU5MT9MD1508792362935.png",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/page_media/UPM8U5QV3DDU1507858876250.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/page_media/UPM8U5QV3DDU1507858876250.svg",
+        "type": "TEAM"
+      },
+      "placement": 6,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 16,
+          "matchLoss": 11,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 68,
+          "gameLoss": 49,
+          "gameTie": 1,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4406,
+        "availableLanguages": [
+          "en",
+          "zh-cn",
+          "th",
+          "ko",
+          "ru",
+          "ja",
+          "zh-tw"
+        ],
+        "handle": "los-angeles-b.3827",
+        "name": "Los Angeles Gladiators",
+        "homeLocation": "Los Angeles, CA",
+        "primaryColor": "3c1053",
+        "secondaryColor": "000000",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4406
+            },
+            "division": {
+              "id": 61
+            }
+          },
+          {
+            "competitor": {
+              "id": 4406
+            },
+            "division": {
+              "id": 80
+            }
+          }
+        ],
+        "abbreviatedName": "GLA",
+        "addressCountry": "US",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/3AEMOZZL76PF1508792362892.PNG",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/CHTRRZCBEYGN1507822882862.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/CHTRRZCBEYGN1507822882862.svg",
+        "type": "TEAM"
+      },
+      "placement": 8,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 13,
+          "matchLoss": 13,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 56,
+          "gameLoss": 54,
+          "gameTie": 1,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4404,
+        "availableLanguages": [
+          "en",
+          "zh-tw",
+          "zh-cn",
+          "th",
+          "ko",
+          "ru",
+          "ja",
+          "pt"
+        ],
+        "handle": "san-francisco.3862",
+        "name": "San Francisco Shock",
+        "homeLocation": "San Francisco, CA",
+        "primaryColor": "fc4c02",
+        "secondaryColor": "75787b",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4404
+            },
+            "division": {
+              "id": 80
+            }
+          },
+          {
+            "competitor": {
+              "id": 4404
+            },
+            "division": {
+              "id": 61
+            }
+          }
+        ],
+        "abbreviatedName": "SFS",
+        "addressCountry": "US",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/YO24NN5KAOFL1508792362791.png",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/0SY7LHKHV86R1507822883113.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/0SY7LHKHV86R1507822883113.svg",
+        "type": "TEAM"
+      },
+      "placement": 9,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 10,
+          "matchLoss": 16,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 46,
+          "gameLoss": 59,
+          "gameTie": 3,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4523,
+        "availableLanguages": [
+          "en",
+          "ru",
+          "ja",
+          "zh-tw",
+          "zh-cn",
+          "th",
+          "ko"
+        ],
+        "handle": "fuel.6990",
+        "name": "Dallas Fuel",
+        "homeLocation": "Dallas, TX",
+        "primaryColor": "0c2340",
+        "secondaryColor": "0072ce",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4523
+            },
+            "division": {
+              "id": 61
+            }
+          },
+          {
+            "competitor": {
+              "id": 4523
+            },
+            "division": {
+              "id": 80
+            }
+          }
+        ],
+        "abbreviatedName": "DAL",
+        "addressCountry": "US",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/NO44N7DDJAPF1508792362936.png",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/YX6JZ6FR89LU1507822882865.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/YX6JZ6FR89LU1507822882865.svg",
+        "type": "TEAM"
+      },
+      "placement": 10,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 6,
+          "matchLoss": 20,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 34,
+          "gameLoss": 71,
+          "gameTie": 6,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4407,
+        "availableLanguages": [
+          "en",
+          "ko",
+          "ru",
+          "pt",
+          "ja",
+          "zh-tw",
+          "zh-cn",
+          "fr",
+          "th"
+        ],
+        "handle": "miami-orlando.6863",
+        "name": "Florida Mayhem",
+        "homeLocation": "Florida",
+        "primaryColor": "feda00",
+        "secondaryColor": "af272f",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4407
+            },
+            "division": {
+              "id": 79
+            }
+          },
+          {
+            "competitor": {
+              "id": 4407
+            },
+            "division": {
+              "id": 61
+            }
+          }
+        ],
+        "abbreviatedName": "FLA",
+        "addressCountry": "US",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/4GO273NATVWM1508792362854.png",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/M1KNTZW8SGHZ1507822883041.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/M1KNTZW8SGHZ1507822883041.svg",
+        "type": "TEAM"
+      },
+      "placement": 11,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 5,
+          "matchLoss": 21,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 33,
+          "gameLoss": 75,
+          "gameTie": 3,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    },
+    {
+      "competitor": {
+        "id": 4408,
+        "availableLanguages": [
+          "en",
+          "zh-tw",
+          "es-mx",
+          "ru",
+          "ja",
+          "th",
+          "zh-cn",
+          "es-es",
+          "ko",
+          "pt"
+        ],
+        "handle": "shanghai.1319",
+        "name": "Shanghai Dragons",
+        "homeLocation": "Shanghai",
+        "primaryColor": "d22630",
+        "secondaryColor": "000000",
+        "game": "OVERWATCH",
+        "divisions": [
+          {
+            "competitor": {
+              "id": 4408
+            },
+            "division": {
+              "id": 80
+            }
+          },
+          {
+            "competitor": {
+              "id": 4408
+            },
+            "division": {
+              "id": 61
+            }
+          }
+        ],
+        "abbreviatedName": "SHD",
+        "addressCountry": "CN",
+        "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/B0R64QSNCDLX1508792362793.png",
+        "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/ZIVUVIWXNIFL1507822883114.svg",
+        "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/ZIVUVIWXNIFL1507822883114.svg",
+        "type": "TEAM"
+      },
+      "placement": 12,
+      "advantage": 0,
+      "records": [
+        {
+          "matchWin": 0,
+          "matchLoss": 27,
+          "matchDraw": 0,
+          "matchBye": 0,
+          "gameWin": 13,
+          "gameLoss": 96,
+          "gameTie": 1,
+          "gamePointsFor": 0,
+          "gamePointsAgainst": 0
+        }
+      ]
+    }
+  ],
+  "totalMatches": 240,
+  "matchesConcluded": 158,
+  "playoffCutoff": 6
+}

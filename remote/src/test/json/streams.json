@@ -1,0 +1,17 @@
+{
+  "id": 1092,
+  "name": "Overwatch League",
+  "slug": "overwatch-league",
+  "subtitle": "The Overwatch League",
+  "description": "",
+  "stream_name": "mlg892",
+  "is_hidden": false,
+  "image_16_9_small": "http://s3.amazonaws.com/s3.majorleaguegaming.com/tv-category-icons/image_16_9s/1092/small/b73b7424-18d6-4e24-b394-2e0fed0217f1.jpg?1512685456",
+  "tags": [
+    "overwatch-league",
+    "owl-en-us"
+  ],
+  "status": 1,
+  "channel_id": 1092,
+  "cdn": "akamai-push"
+}

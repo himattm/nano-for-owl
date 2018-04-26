@@ -1,0 +1,3555 @@
+{
+  "id": 10223,
+  "competitors": [
+    {
+      "id": 4404,
+      "availableLanguages": [
+        "en",
+        "zh-tw",
+        "zh-cn",
+        "th",
+        "ko",
+        "ru",
+        "ja",
+        "pt"
+      ],
+      "handle": "san-francisco.3862",
+      "name": "San Francisco Shock",
+      "homeLocation": "San Francisco, CA",
+      "primaryColor": "fc4c02",
+      "secondaryColor": "75787b",
+      "game": "OVERWATCH",
+      "attributes": {
+        "city": null,
+        "hero_image": null,
+        "manager": null,
+        "team_guid": "0x0D7000000000000A"
+      },
+      "attributesVersion": "1.0.0",
+      "abbreviatedName": "SFS",
+      "addressCountry": "US",
+      "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/YO24NN5KAOFL1508792362791.png",
+      "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/0SY7LHKHV86R1507822883113.svg",
+      "players": [
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 5716,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "moth.3967",
+            "name": "Moth",
+            "homeLocation": "Worcester, MA",
+            "game": "OVERWATCH",
+            "attributes": {
+              "heroes": [
+                "ana",
+                "lucio",
+                "mercy"
+              ],
+              "player_number": 64,
+              "preferred_slot": "3",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Espe",
+            "givenName": "Grant",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/5z/5Z2WUOHSFSBX1521590864746.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4025,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "dhak.8567",
+            "name": "dhaK",
+            "homeLocation": "Gijón",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "lucio",
+                "mercy",
+                "ana"
+              ],
+              "hometown": "Gijón, Spain",
+              "player_number": 10,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Martinez Paz",
+            "givenName": "Daniel",
+            "nationality": "ES",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/4Q3H9T4BPAR21512777246918.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4490,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "super.6832",
+            "name": "super",
+            "homeLocation": "Philadelphia",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "pharah",
+                "roadhog"
+              ],
+              "hometown": "Philadelphia, Pennsylvania",
+              "player_number": 1,
+              "preferred_slot": "1",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "DeLisi",
+            "givenName": "Matthew",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/YUQL4VLXE7PX1512777247831.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4491,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "babybay.7271",
+            "name": "BABYBAY",
+            "homeLocation": "Chicago, IL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "soldier-76",
+                "mccree",
+                "genji"
+              ],
+              "hometown": "Chicago, Illionis",
+              "player_number": 13,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Francisty",
+            "givenName": "Andrej",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/U9QK0OYK87F01512777246945.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4139,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "sinatraa.3257",
+            "name": "sinatraa",
+            "homeLocation": "Shoreline, WA",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "zarya",
+                "genji"
+              ],
+              "hometown": "Shoreline, Washington",
+              "player_number": 2,
+              "preferred_slot": "2",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Won",
+            "givenName": "Jay",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/GAH625QTQPGC1512777247784.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4488,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "leepy.5762",
+            "name": "sleepy",
+            "homeLocation": "Lakeland, FL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "ana",
+                "zenyatta",
+                "mercy"
+              ],
+              "hometown": "Lakeland, Flordia",
+              "player_number": 27,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Andrews",
+            "givenName": "Nikola",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/YWYMSL7EOA951512777247847.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4489,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "danteh.8452",
+            "name": "Danteh",
+            "homeLocation": "Chicago, IL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "genji",
+                "sombra"
+              ],
+              "hometown": "Wonder Lake, illinois",
+              "player_number": 6,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Cruz",
+            "givenName": "Dante",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/FD9N9OR9YO7L1512777246926.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4492,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "nomy.1216",
+            "name": "Nomy",
+            "homeLocation": "Tijuana",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt"
+              ],
+              "hometown": "Tijuana, Mexico",
+              "player_number": 7,
+              "preferred_slot": "5",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Lizarraga Ramirez Osmar",
+            "givenName": "David",
+            "nationality": "MX",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/NFY3Y5MRRO951512777247574.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3661,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "iddqd.9839",
+            "name": "iddqd",
+            "homeLocation": "Stockholm",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "soldier-76",
+                "mccree"
+              ],
+              "hometown": "Stockholm, Sweden",
+              "player_number": 66,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Dahlström",
+            "givenName": "André",
+            "nationality": "SE",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/WSFQZ1R6LCJ31512777247534.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4626,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "nevix.5457",
+            "name": "Nevix",
+            "homeLocation": "Helgenäs",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "dva",
+                "pharah",
+                "junkrat"
+              ],
+              "hometown": "Helgenäs , Sweden",
+              "player_number": 9,
+              "preferred_slot": "5",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Karlsson",
+            "givenName": "Andreas",
+            "nationality": "SE",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/QCO0N7H8SQFT1512777247525.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 5715,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "architect.5497",
+            "name": "Architect",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "heroes": [
+                "genji",
+                "pharah"
+              ],
+              "player_number": 3,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Park",
+            "givenName": "Minho",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/gallery/7YOLZ6HNVS2Y1522979583351.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        }
+      ],
+      "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/0SY7LHKHV86R1507822883113.svg",
+      "type": "TEAM"
+    },
+    {
+      "id": 4405,
+      "availableLanguages": [
+        "en",
+        "zh-cn",
+        "th",
+        "ko",
+        "ru",
+        "ja",
+        "zh-tw"
+      ],
+      "handle": "los-angeles-a.2779",
+      "name": "Los Angeles Valiant",
+      "homeLocation": "Los Angeles, CA",
+      "primaryColor": "4a7729",
+      "secondaryColor": "000000",
+      "game": "OVERWATCH",
+      "attributes": {
+        "city": null,
+        "hero_image": null,
+        "manager": null,
+        "team_guid": "0x0D70000000000005"
+      },
+      "attributesVersion": "1.0.0",
+      "abbreviatedName": "VAL",
+      "addressCountry": "US",
+      "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/0D8BNUWVZP6B1508792362890.PNG",
+      "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/L3U59GQVS1ZK1507822882879.svg",
+      "players": [
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4635,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "kariv.3355",
+            "name": "Kariv",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "zenyatta",
+                "ana",
+                "widowmaker"
+              ],
+              "hometown": "Seoul",
+              "player_number": 7,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Park",
+            "givenName": "Young-Seo",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4667,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "bunny.8066",
+            "name": "Bunny",
+            "homeLocation": "Suwon",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "mccree",
+                "soldier-76"
+              ],
+              "hometown": null,
+              "player_number": 8,
+              "preferred_slot": "1",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Chae",
+            "givenName": "Jun-Hyeok",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/5UTQTAH91AP81523496424343.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4636,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "fate.1459",
+            "name": "Fate",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt",
+                "tracer"
+              ],
+              "hometown": "Seoul",
+              "player_number": 1,
+              "preferred_slot": "0",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Koo",
+            "givenName": "Pan-Seung",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/3SWJQYWMYTV11512776700780.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4633,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "verbo.6137",
+            "name": "Verbo",
+            "homeLocation": "Toronto",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "lucio",
+                "mercy",
+                "ana"
+              ],
+              "hometown": "Toronto",
+              "player_number": 13,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Disalvo",
+            "givenName": "Stefano",
+            "nationality": "CA",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/GB1BRHQZ4CLL1512776701508.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3577,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "custa.8424",
+            "name": "Custa",
+            "homeLocation": "Adelaide",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "zenyatta",
+                "lucio",
+                "mercy"
+              ],
+              "hometown": null,
+              "player_number": 10,
+              "preferred_slot": "5",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Kennedy",
+            "givenName": "Scott",
+            "nationality": "AU",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/gallery/5BKHVJ9PGEFR1522979605000.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4637,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "space.7513",
+            "name": "Space",
+            "homeLocation": "New York City, NY",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "zarya",
+                "roadhog",
+                "dva"
+              ],
+              "hometown": "New York City, New York",
+              "player_number": 16,
+              "preferred_slot": "2",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Halpern",
+            "givenName": "Indy",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 5864,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "finnsi.1023",
+            "name": "Finnsi",
+            "homeLocation": "Reykjavík",
+            "game": "OVERWATCH",
+            "attributes": {
+              "heroes": [
+                "dva",
+                "roadhog",
+                "zarya"
+              ],
+              "player_number": 11,
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Jonasson",
+            "givenName": "Finnbjorn",
+            "nationality": "IS",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 5865,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "ksf.4600",
+            "name": "KSF",
+            "homeLocation": "Puyallup, WA",
+            "game": "OVERWATCH",
+            "attributes": {
+              "heroes": [
+                "genji",
+                "soldier-76",
+                "sombra",
+                "widowmaker"
+              ],
+              "player_number": 27,
+              "preferred_slot": "3",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Frandanisa",
+            "givenName": "Kyle",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png ",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3663,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "numlocked.8944",
+            "name": "Numlocked",
+            "homeLocation": "Leamington Spa",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt",
+                "dva"
+              ],
+              "hometown": "Leamington Spa",
+              "player_number": 6,
+              "preferred_slot": "0",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Barton",
+            "givenName": "Sebastian",
+            "nationality": "GB",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/H4XYM23GR1061512776701073.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 5872,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "izayaki.6264",
+            "name": "Izayaki",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "heroes": [
+                "ana",
+                "zenyatta"
+              ],
+              "player_number": 22,
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Kim",
+            "givenName": "Minchul",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png ",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4142,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "agilities.5443",
+            "name": "Agilities",
+            "homeLocation": "Blairmore",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "genji",
+                "tracer",
+                "pharah"
+              ],
+              "hometown": "Blairmore, AB",
+              "player_number": 3,
+              "preferred_slot": "3",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Girardi",
+            "givenName": "Brady",
+            "nationality": "CA",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/47PKEMP7FWAQ1512776700755.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3987,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "soon.8087",
+            "name": "Soon",
+            "homeLocation": "Hangest-En-Santerre",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "widowmaker",
+                "mccree"
+              ],
+              "hometown": "Hangest-En-Santerre, France",
+              "player_number": 99,
+              "preferred_slot": "1",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Tarlier",
+            "givenName": "Terence",
+            "nationality": "FR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png",
+            "type": "PLAYER"
+          },
+          "flags": []
+        }
+      ],
+      "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/L3U59GQVS1ZK1507822882879.svg",
+      "type": "TEAM"
+    }
+  ],
+  "scores": [
+    {
+      "value": 0
+    },
+    {
+      "value": 4
+    }
+  ],
+  "conclusionValue": 4,
+  "conclusionStrategy": "MINIMUM",
+  "winner": {
+    "id": 4405,
+    "availableLanguages": [
+      "en",
+      "zh-cn",
+      "th",
+      "ko",
+      "ru",
+      "ja",
+      "zh-tw"
+    ],
+    "handle": "los-angeles-a.2779",
+    "name": "Los Angeles Valiant",
+    "homeLocation": "Los Angeles, CA",
+    "primaryColor": "4a7729",
+    "secondaryColor": "000000",
+    "game": "OVERWATCH",
+    "attributes": {
+      "city": null,
+      "hero_image": null,
+      "manager": null,
+      "team_guid": "0x0D70000000000005"
+    },
+    "attributesVersion": "1.0.0",
+    "abbreviatedName": "VAL",
+    "addressCountry": "US",
+    "logo": "https://bnetcmsus-a.akamaihd.net/cms/page_media/0D8BNUWVZP6B1508792362890.PNG",
+    "icon": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/L3U59GQVS1ZK1507822882879.svg",
+    "players": [
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 4635,
+          "availableLanguages": [
+            "en",
+            "ko"
+          ],
+          "handle": "kariv.3355",
+          "name": "Kariv",
+          "homeLocation": "Seoul",
+          "game": "OVERWATCH",
+          "attributes": {
+            "hero_image": null,
+            "heroes": [
+              "zenyatta",
+              "ana",
+              "widowmaker"
+            ],
+            "hometown": "Seoul",
+            "player_number": 7,
+            "preferred_slot": "4",
+            "role": "support"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Park",
+          "givenName": "Young-Seo",
+          "nationality": "KR",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 4667,
+          "availableLanguages": [
+            "en",
+            "ko"
+          ],
+          "handle": "bunny.8066",
+          "name": "Bunny",
+          "homeLocation": "Suwon",
+          "game": "OVERWATCH",
+          "attributes": {
+            "hero_image": null,
+            "heroes": [
+              "tracer",
+              "mccree",
+              "soldier-76"
+            ],
+            "hometown": null,
+            "player_number": 8,
+            "preferred_slot": "1",
+            "role": "offense"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Chae",
+          "givenName": "Jun-Hyeok",
+          "nationality": "KR",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/5UTQTAH91AP81523496424343.png",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 4636,
+          "availableLanguages": [
+            "en",
+            "ko"
+          ],
+          "handle": "fate.1459",
+          "name": "Fate",
+          "homeLocation": "Seoul",
+          "game": "OVERWATCH",
+          "attributes": {
+            "hero_image": null,
+            "heroes": [
+              "winston",
+              "reinhardt",
+              "tracer"
+            ],
+            "hometown": "Seoul",
+            "player_number": 1,
+            "preferred_slot": "0",
+            "role": "tank"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Koo",
+          "givenName": "Pan-Seung",
+          "nationality": "KR",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/3SWJQYWMYTV11512776700780.png",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 4633,
+          "availableLanguages": [
+            "en"
+          ],
+          "handle": "verbo.6137",
+          "name": "Verbo",
+          "homeLocation": "Toronto",
+          "game": "OVERWATCH",
+          "attributes": {
+            "hero_image": null,
+            "heroes": [
+              "lucio",
+              "mercy",
+              "ana"
+            ],
+            "hometown": "Toronto",
+            "player_number": 13,
+            "preferred_slot": "4",
+            "role": "support"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Disalvo",
+          "givenName": "Stefano",
+          "nationality": "CA",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/GB1BRHQZ4CLL1512776701508.png",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 3577,
+          "availableLanguages": [
+            "en"
+          ],
+          "handle": "custa.8424",
+          "name": "Custa",
+          "homeLocation": "Adelaide",
+          "game": "OVERWATCH",
+          "attributes": {
+            "hero_image": null,
+            "heroes": [
+              "zenyatta",
+              "lucio",
+              "mercy"
+            ],
+            "hometown": null,
+            "player_number": 10,
+            "preferred_slot": "5",
+            "role": "support"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Kennedy",
+          "givenName": "Scott",
+          "nationality": "AU",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/gallery/5BKHVJ9PGEFR1522979605000.png",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 4637,
+          "availableLanguages": [
+            "en"
+          ],
+          "handle": "space.7513",
+          "name": "Space",
+          "homeLocation": "New York City, NY",
+          "game": "OVERWATCH",
+          "attributes": {
+            "hero_image": null,
+            "heroes": [
+              "zarya",
+              "roadhog",
+              "dva"
+            ],
+            "hometown": "New York City, New York",
+            "player_number": 16,
+            "preferred_slot": "2",
+            "role": "flex"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Halpern",
+          "givenName": "Indy",
+          "nationality": "US",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 5864,
+          "availableLanguages": [
+            "en"
+          ],
+          "handle": "finnsi.1023",
+          "name": "Finnsi",
+          "homeLocation": "Reykjavík",
+          "game": "OVERWATCH",
+          "attributes": {
+            "heroes": [
+              "dva",
+              "roadhog",
+              "zarya"
+            ],
+            "player_number": 11,
+            "role": "flex"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Jonasson",
+          "givenName": "Finnbjorn",
+          "nationality": "IS",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 5865,
+          "availableLanguages": [
+            "en"
+          ],
+          "handle": "ksf.4600",
+          "name": "KSF",
+          "homeLocation": "Puyallup, WA",
+          "game": "OVERWATCH",
+          "attributes": {
+            "heroes": [
+              "genji",
+              "soldier-76",
+              "sombra",
+              "widowmaker"
+            ],
+            "player_number": 27,
+            "preferred_slot": "3",
+            "role": "offense"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Frandanisa",
+          "givenName": "Kyle",
+          "nationality": "US",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png ",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 3663,
+          "availableLanguages": [
+            "en"
+          ],
+          "handle": "numlocked.8944",
+          "name": "Numlocked",
+          "homeLocation": "Leamington Spa",
+          "game": "OVERWATCH",
+          "attributes": {
+            "hero_image": null,
+            "heroes": [
+              "winston",
+              "reinhardt",
+              "dva"
+            ],
+            "hometown": "Leamington Spa",
+            "player_number": 6,
+            "preferred_slot": "0",
+            "role": "tank"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Barton",
+          "givenName": "Sebastian",
+          "nationality": "GB",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/H4XYM23GR1061512776701073.png",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 5872,
+          "availableLanguages": [
+            "en",
+            "ko"
+          ],
+          "handle": "izayaki.6264",
+          "name": "Izayaki",
+          "homeLocation": "Seoul",
+          "game": "OVERWATCH",
+          "attributes": {
+            "heroes": [
+              "ana",
+              "zenyatta"
+            ],
+            "player_number": 22,
+            "role": "flex"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Kim",
+          "givenName": "Minchul",
+          "nationality": "KR",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png ",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 4142,
+          "availableLanguages": [
+            "en"
+          ],
+          "handle": "agilities.5443",
+          "name": "Agilities",
+          "homeLocation": "Blairmore",
+          "game": "OVERWATCH",
+          "attributes": {
+            "hero_image": null,
+            "heroes": [
+              "genji",
+              "tracer",
+              "pharah"
+            ],
+            "hometown": "Blairmore, AB",
+            "player_number": 3,
+            "preferred_slot": "3",
+            "role": "offense"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Girardi",
+          "givenName": "Brady",
+          "nationality": "CA",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/47PKEMP7FWAQ1512776700755.png",
+          "type": "PLAYER"
+        },
+        "flags": []
+      },
+      {
+        "team": {
+          "id": 4405,
+          "type": "TEAM"
+        },
+        "player": {
+          "id": 3987,
+          "availableLanguages": [
+            "en"
+          ],
+          "handle": "soon.8087",
+          "name": "Soon",
+          "homeLocation": "Hangest-En-Santerre",
+          "game": "OVERWATCH",
+          "attributes": {
+            "hero_image": null,
+            "heroes": [
+              "tracer",
+              "widowmaker",
+              "mccree"
+            ],
+            "hometown": "Hangest-En-Santerre, France",
+            "player_number": 99,
+            "preferred_slot": "1",
+            "role": "offense"
+          },
+          "attributesVersion": "1.0.0",
+          "familyName": "Tarlier",
+          "givenName": "Terence",
+          "nationality": "FR",
+          "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png",
+          "type": "PLAYER"
+        },
+        "flags": []
+      }
+    ],
+    "secondaryPhoto": "https://bnetcmsus-a.akamaihd.net/cms/template_resource/L3U59GQVS1ZK1507822882879.svg",
+    "type": "TEAM"
+  },
+  "state": "CONCLUDED",
+  "attributes": {},
+  "games": [
+    {
+      "id": 5599,
+      "number": 1,
+      "points": [
+        2,
+        3
+      ],
+      "attributes": {
+        "instanceID": "05c00f0a34c30002:048e1a9160d100a2",
+        "map": "dorado",
+        "mapScore": {
+          "team1": 2,
+          "team2": 3
+        }
+      },
+      "attributesVersion": "0.1.0",
+      "players": [
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4634,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "envy.3537",
+            "name": "Envy",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "dva",
+                "zarya",
+                "roadhog"
+              ],
+              "hometown": "Seoul",
+              "player_number": 10,
+              "preferred_slot": "2",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Lee",
+            "givenName": "Kang-Jae",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/6FAQKR0XRZ821512776700785.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4635,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "kariv.3355",
+            "name": "Kariv",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "zenyatta",
+                "ana",
+                "widowmaker"
+              ],
+              "hometown": "Seoul",
+              "player_number": 7,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Park",
+            "givenName": "Young-Seo",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4142,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "agilities.5443",
+            "name": "Agilities",
+            "homeLocation": "Blairmore",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "genji",
+                "tracer",
+                "pharah"
+              ],
+              "hometown": "Blairmore, AB",
+              "player_number": 3,
+              "preferred_slot": "3",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Girardi",
+            "givenName": "Brady",
+            "nationality": "CA",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/47PKEMP7FWAQ1512776700755.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3987,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "soon.8087",
+            "name": "Soon",
+            "homeLocation": "Hangest-En-Santerre",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "widowmaker",
+                "mccree"
+              ],
+              "hometown": "Hangest-En-Santerre, France",
+              "player_number": 99,
+              "preferred_slot": "1",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Tarlier",
+            "givenName": "Terence",
+            "nationality": "FR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3983,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "unkoe.9342",
+            "name": "Unkoe",
+            "homeLocation": "Nevers",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "mercy",
+                "zenyatta",
+                "ana"
+              ],
+              "hometown": "Nevers, France",
+              "player_number": 24,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Chevasson",
+            "givenName": "Benjamin",
+            "nationality": "FR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/gallery/8P5PDHGFRTOP1522979540099.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4636,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "fate.1459",
+            "name": "Fate",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt",
+                "tracer"
+              ],
+              "hometown": "Seoul",
+              "player_number": 1,
+              "preferred_slot": "0",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Koo",
+            "givenName": "Pan-Seung",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/3SWJQYWMYTV11512776700780.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4491,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "babybay.7271",
+            "name": "BABYBAY",
+            "homeLocation": "Chicago, IL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "soldier-76",
+                "mccree",
+                "genji"
+              ],
+              "hometown": "Chicago, Illionis",
+              "player_number": 13,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Francisty",
+            "givenName": "Andrej",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/U9QK0OYK87F01512777246945.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4025,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "dhak.8567",
+            "name": "dhaK",
+            "homeLocation": "Gijón",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "lucio",
+                "mercy",
+                "ana"
+              ],
+              "hometown": "Gijón, Spain",
+              "player_number": 10,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Martinez Paz",
+            "givenName": "Daniel",
+            "nationality": "ES",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/4Q3H9T4BPAR21512777246918.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4488,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "leepy.5762",
+            "name": "sleepy",
+            "homeLocation": "Lakeland, FL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "ana",
+                "zenyatta",
+                "mercy"
+              ],
+              "hometown": "Lakeland, Flordia",
+              "player_number": 27,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Andrews",
+            "givenName": "Nikola",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/YWYMSL7EOA951512777247847.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4489,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "danteh.8452",
+            "name": "Danteh",
+            "homeLocation": "Chicago, IL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "genji",
+                "sombra"
+              ],
+              "hometown": "Wonder Lake, illinois",
+              "player_number": 6,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Cruz",
+            "givenName": "Dante",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/FD9N9OR9YO7L1512777246926.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4492,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "nomy.1216",
+            "name": "Nomy",
+            "homeLocation": "Tijuana",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt"
+              ],
+              "hometown": "Tijuana, Mexico",
+              "player_number": 7,
+              "preferred_slot": "5",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Lizarraga Ramirez Osmar",
+            "givenName": "David",
+            "nationality": "MX",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/NFY3Y5MRRO951512777247574.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4626,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "nevix.5457",
+            "name": "Nevix",
+            "homeLocation": "Helgenäs",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "dva",
+                "pharah",
+                "junkrat"
+              ],
+              "hometown": "Helgenäs , Sweden",
+              "player_number": 9,
+              "preferred_slot": "5",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Karlsson",
+            "givenName": "Andreas",
+            "nationality": "SE",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/QCO0N7H8SQFT1512777247525.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5599,
+            "stats": null
+          }
+        }
+      ],
+      "state": "CONCLUDED",
+      "stats": null,
+      "handle": "matchgame-16c1572c-493e-e04d-987a-28490c65bdbe"
+    },
+    {
+      "id": 5600,
+      "number": 2,
+      "points": [
+        3,
+        4
+      ],
+      "attributes": {
+        "instanceID": "05c00f0a34c30002:048f662cfc6800b3",
+        "map": "temple-of-anubis",
+        "mapScore": {
+          "team1": 3,
+          "team2": 4
+        }
+      },
+      "attributesVersion": "0.1.0",
+      "players": [
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4491,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "babybay.7271",
+            "name": "BABYBAY",
+            "homeLocation": "Chicago, IL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "soldier-76",
+                "mccree",
+                "genji"
+              ],
+              "hometown": "Chicago, Illionis",
+              "player_number": 13,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Francisty",
+            "givenName": "Andrej",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/U9QK0OYK87F01512777246945.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4488,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "leepy.5762",
+            "name": "sleepy",
+            "homeLocation": "Lakeland, FL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "ana",
+                "zenyatta",
+                "mercy"
+              ],
+              "hometown": "Lakeland, Flordia",
+              "player_number": 27,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Andrews",
+            "givenName": "Nikola",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/YWYMSL7EOA951512777247847.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4489,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "danteh.8452",
+            "name": "Danteh",
+            "homeLocation": "Chicago, IL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "genji",
+                "sombra"
+              ],
+              "hometown": "Wonder Lake, illinois",
+              "player_number": 6,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Cruz",
+            "givenName": "Dante",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/FD9N9OR9YO7L1512777246926.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4025,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "dhak.8567",
+            "name": "dhaK",
+            "homeLocation": "Gijón",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "lucio",
+                "mercy",
+                "ana"
+              ],
+              "hometown": "Gijón, Spain",
+              "player_number": 10,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Martinez Paz",
+            "givenName": "Daniel",
+            "nationality": "ES",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/4Q3H9T4BPAR21512777246918.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4492,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "nomy.1216",
+            "name": "Nomy",
+            "homeLocation": "Tijuana",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt"
+              ],
+              "hometown": "Tijuana, Mexico",
+              "player_number": 7,
+              "preferred_slot": "5",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Lizarraga Ramirez Osmar",
+            "givenName": "David",
+            "nationality": "MX",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/NFY3Y5MRRO951512777247574.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4626,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "nevix.5457",
+            "name": "Nevix",
+            "homeLocation": "Helgenäs",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "dva",
+                "pharah",
+                "junkrat"
+              ],
+              "hometown": "Helgenäs , Sweden",
+              "player_number": 9,
+              "preferred_slot": "5",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Karlsson",
+            "givenName": "Andreas",
+            "nationality": "SE",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/QCO0N7H8SQFT1512777247525.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4634,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "envy.3537",
+            "name": "Envy",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "dva",
+                "zarya",
+                "roadhog"
+              ],
+              "hometown": "Seoul",
+              "player_number": 10,
+              "preferred_slot": "2",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Lee",
+            "givenName": "Kang-Jae",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/6FAQKR0XRZ821512776700785.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4635,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "kariv.3355",
+            "name": "Kariv",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "zenyatta",
+                "ana",
+                "widowmaker"
+              ],
+              "hometown": "Seoul",
+              "player_number": 7,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Park",
+            "givenName": "Young-Seo",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4142,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "agilities.5443",
+            "name": "Agilities",
+            "homeLocation": "Blairmore",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "genji",
+                "tracer",
+                "pharah"
+              ],
+              "hometown": "Blairmore, AB",
+              "player_number": 3,
+              "preferred_slot": "3",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Girardi",
+            "givenName": "Brady",
+            "nationality": "CA",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/47PKEMP7FWAQ1512776700755.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3987,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "soon.8087",
+            "name": "Soon",
+            "homeLocation": "Hangest-En-Santerre",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "widowmaker",
+                "mccree"
+              ],
+              "hometown": "Hangest-En-Santerre, France",
+              "player_number": 99,
+              "preferred_slot": "1",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Tarlier",
+            "givenName": "Terence",
+            "nationality": "FR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3983,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "unkoe.9342",
+            "name": "Unkoe",
+            "homeLocation": "Nevers",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "mercy",
+                "zenyatta",
+                "ana"
+              ],
+              "hometown": "Nevers, France",
+              "player_number": 24,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Chevasson",
+            "givenName": "Benjamin",
+            "nationality": "FR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/gallery/8P5PDHGFRTOP1522979540099.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4636,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "fate.1459",
+            "name": "Fate",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt",
+                "tracer"
+              ],
+              "hometown": "Seoul",
+              "player_number": 1,
+              "preferred_slot": "0",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Koo",
+            "givenName": "Pan-Seung",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/3SWJQYWMYTV11512776700780.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5600,
+            "stats": null
+          }
+        }
+      ],
+      "state": "CONCLUDED",
+      "stats": null,
+      "handle": "matchgame-0396b37c-ef2f-b947-8409-996422538799"
+    },
+    {
+      "id": 5601,
+      "number": 3,
+      "points": [
+        1,
+        2
+      ],
+      "attributes": {
+        "instanceID": "05c00f0a34c30002:048fce9e880b00b4",
+        "map": "ilios",
+        "mapScore": {
+          "team1": 1,
+          "team2": 2
+        }
+      },
+      "attributesVersion": "0.1.0",
+      "players": [
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4491,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "babybay.7271",
+            "name": "BABYBAY",
+            "homeLocation": "Chicago, IL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "soldier-76",
+                "mccree",
+                "genji"
+              ],
+              "hometown": "Chicago, Illionis",
+              "player_number": 13,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Francisty",
+            "givenName": "Andrej",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/U9QK0OYK87F01512777246945.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4488,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "leepy.5762",
+            "name": "sleepy",
+            "homeLocation": "Lakeland, FL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "ana",
+                "zenyatta",
+                "mercy"
+              ],
+              "hometown": "Lakeland, Flordia",
+              "player_number": 27,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Andrews",
+            "givenName": "Nikola",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/YWYMSL7EOA951512777247847.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4489,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "danteh.8452",
+            "name": "Danteh",
+            "homeLocation": "Chicago, IL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "genji",
+                "sombra"
+              ],
+              "hometown": "Wonder Lake, illinois",
+              "player_number": 6,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Cruz",
+            "givenName": "Dante",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/FD9N9OR9YO7L1512777246926.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4025,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "dhak.8567",
+            "name": "dhaK",
+            "homeLocation": "Gijón",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "lucio",
+                "mercy",
+                "ana"
+              ],
+              "hometown": "Gijón, Spain",
+              "player_number": 10,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Martinez Paz",
+            "givenName": "Daniel",
+            "nationality": "ES",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/4Q3H9T4BPAR21512777246918.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4492,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "nomy.1216",
+            "name": "Nomy",
+            "homeLocation": "Tijuana",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt"
+              ],
+              "hometown": "Tijuana, Mexico",
+              "player_number": 7,
+              "preferred_slot": "5",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Lizarraga Ramirez Osmar",
+            "givenName": "David",
+            "nationality": "MX",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/NFY3Y5MRRO951512777247574.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4626,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "nevix.5457",
+            "name": "Nevix",
+            "homeLocation": "Helgenäs",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "dva",
+                "pharah",
+                "junkrat"
+              ],
+              "hometown": "Helgenäs , Sweden",
+              "player_number": 9,
+              "preferred_slot": "5",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Karlsson",
+            "givenName": "Andreas",
+            "nationality": "SE",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/QCO0N7H8SQFT1512777247525.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4634,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "envy.3537",
+            "name": "Envy",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "dva",
+                "zarya",
+                "roadhog"
+              ],
+              "hometown": "Seoul",
+              "player_number": 10,
+              "preferred_slot": "2",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Lee",
+            "givenName": "Kang-Jae",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/6FAQKR0XRZ821512776700785.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4635,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "kariv.3355",
+            "name": "Kariv",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "zenyatta",
+                "ana",
+                "widowmaker"
+              ],
+              "hometown": "Seoul",
+              "player_number": 7,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Park",
+            "givenName": "Young-Seo",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3987,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "soon.8087",
+            "name": "Soon",
+            "homeLocation": "Hangest-En-Santerre",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "widowmaker",
+                "mccree"
+              ],
+              "hometown": "Hangest-En-Santerre, France",
+              "player_number": 99,
+              "preferred_slot": "1",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Tarlier",
+            "givenName": "Terence",
+            "nationality": "FR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3983,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "unkoe.9342",
+            "name": "Unkoe",
+            "homeLocation": "Nevers",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "mercy",
+                "zenyatta",
+                "ana"
+              ],
+              "hometown": "Nevers, France",
+              "player_number": 24,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Chevasson",
+            "givenName": "Benjamin",
+            "nationality": "FR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/gallery/8P5PDHGFRTOP1522979540099.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4636,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "fate.1459",
+            "name": "Fate",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt",
+                "tracer"
+              ],
+              "hometown": "Seoul",
+              "player_number": 1,
+              "preferred_slot": "0",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Koo",
+            "givenName": "Pan-Seung",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/3SWJQYWMYTV11512776700780.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4632,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "silkthread.9968",
+            "name": "silkthread",
+            "homeLocation": "Katy, TX",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "genji",
+                "mccree"
+              ],
+              "hometown": "Katy, TX",
+              "player_number": 9,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Wang",
+            "givenName": "Ted",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/gallery/AQSV3TEWN26R1522979559773.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5601,
+            "stats": null
+          }
+        }
+      ],
+      "state": "CONCLUDED",
+      "stats": null,
+      "handle": "matchgame-1f41fdb6-fff8-3d43-a9c8-50f17bdf925d"
+    },
+    {
+      "id": 5602,
+      "number": 4,
+      "points": [
+        1,
+        2
+      ],
+      "attributes": {
+        "instanceID": "05c00f0a34c30002:049033993a3b00b6",
+        "map": "numbani",
+        "mapScore": {
+          "team1": 1,
+          "team2": 2
+        }
+      },
+      "attributesVersion": "0.1.0",
+      "players": [
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4491,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "babybay.7271",
+            "name": "BABYBAY",
+            "homeLocation": "Chicago, IL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "soldier-76",
+                "mccree",
+                "genji"
+              ],
+              "hometown": "Chicago, Illionis",
+              "player_number": 13,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Francisty",
+            "givenName": "Andrej",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/U9QK0OYK87F01512777246945.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4488,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "leepy.5762",
+            "name": "sleepy",
+            "homeLocation": "Lakeland, FL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "ana",
+                "zenyatta",
+                "mercy"
+              ],
+              "hometown": "Lakeland, Flordia",
+              "player_number": 27,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Andrews",
+            "givenName": "Nikola",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/YWYMSL7EOA951512777247847.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4489,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "danteh.8452",
+            "name": "Danteh",
+            "homeLocation": "Chicago, IL",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "genji",
+                "sombra"
+              ],
+              "hometown": "Wonder Lake, illinois",
+              "player_number": 6,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Cruz",
+            "givenName": "Dante",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/FD9N9OR9YO7L1512777246926.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4025,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "dhak.8567",
+            "name": "dhaK",
+            "homeLocation": "Gijón",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "lucio",
+                "mercy",
+                "ana"
+              ],
+              "hometown": "Gijón, Spain",
+              "player_number": 10,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Martinez Paz",
+            "givenName": "Daniel",
+            "nationality": "ES",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/4Q3H9T4BPAR21512777246918.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4492,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "nomy.1216",
+            "name": "Nomy",
+            "homeLocation": "Tijuana",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt"
+              ],
+              "hometown": "Tijuana, Mexico",
+              "player_number": 7,
+              "preferred_slot": "5",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Lizarraga Ramirez Osmar",
+            "givenName": "David",
+            "nationality": "MX",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/NFY3Y5MRRO951512777247574.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4404,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4626,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "nevix.5457",
+            "name": "Nevix",
+            "homeLocation": "Helgenäs",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "dva",
+                "pharah",
+                "junkrat"
+              ],
+              "hometown": "Helgenäs , Sweden",
+              "player_number": 9,
+              "preferred_slot": "5",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Karlsson",
+            "givenName": "Andreas",
+            "nationality": "SE",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/QCO0N7H8SQFT1512777247525.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4634,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "envy.3537",
+            "name": "Envy",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "dva",
+                "zarya",
+                "roadhog"
+              ],
+              "hometown": "Seoul",
+              "player_number": 10,
+              "preferred_slot": "2",
+              "role": "flex"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Lee",
+            "givenName": "Kang-Jae",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/6FAQKR0XRZ821512776700785.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4635,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "kariv.3355",
+            "name": "Kariv",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "zenyatta",
+                "ana",
+                "widowmaker"
+              ],
+              "hometown": "Seoul",
+              "player_number": 7,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Park",
+            "givenName": "Young-Seo",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3987,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "soon.8087",
+            "name": "Soon",
+            "homeLocation": "Hangest-En-Santerre",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "widowmaker",
+                "mccree"
+              ],
+              "hometown": "Hangest-En-Santerre, France",
+              "player_number": 99,
+              "preferred_slot": "1",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Tarlier",
+            "givenName": "Terence",
+            "nationality": "FR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 3983,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "unkoe.9342",
+            "name": "Unkoe",
+            "homeLocation": "Nevers",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "mercy",
+                "zenyatta",
+                "ana"
+              ],
+              "hometown": "Nevers, France",
+              "player_number": 24,
+              "preferred_slot": "4",
+              "role": "support"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Chevasson",
+            "givenName": "Benjamin",
+            "nationality": "FR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/gallery/8P5PDHGFRTOP1522979540099.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4636,
+            "availableLanguages": [
+              "en",
+              "ko"
+            ],
+            "handle": "fate.1459",
+            "name": "Fate",
+            "homeLocation": "Seoul",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "winston",
+                "reinhardt",
+                "tracer"
+              ],
+              "hometown": "Seoul",
+              "player_number": 1,
+              "preferred_slot": "0",
+              "role": "tank"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Koo",
+            "givenName": "Pan-Seung",
+            "nationality": "KR",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/page_media/3SWJQYWMYTV11512776700780.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        },
+        {
+          "team": {
+            "id": 4405,
+            "type": "TEAM"
+          },
+          "player": {
+            "id": 4632,
+            "availableLanguages": [
+              "en"
+            ],
+            "handle": "silkthread.9968",
+            "name": "silkthread",
+            "homeLocation": "Katy, TX",
+            "game": "OVERWATCH",
+            "attributes": {
+              "hero_image": null,
+              "heroes": [
+                "tracer",
+                "genji",
+                "mccree"
+              ],
+              "hometown": "Katy, TX",
+              "player_number": 9,
+              "preferred_slot": "0",
+              "role": "offense"
+            },
+            "attributesVersion": "1.0.0",
+            "familyName": "Wang",
+            "givenName": "Ted",
+            "nationality": "US",
+            "headshot": "https://bnetcmsus-a.akamaihd.net/cms/gallery/AQSV3TEWN26R1522979559773.png",
+            "type": "PLAYER"
+          },
+          "matchGame": {
+            "id": 5602,
+            "stats": null
+          }
+        }
+      ],
+      "state": "CONCLUDED",
+      "stats": null,
+      "handle": "matchgame-3f205a3b-f52c-dc49-a344-0e6a29a241c0"
+    }
+  ],
+  "clientHints": [],
+  "bracket": {
+    "id": 2725,
+    "matchConclusionValue": 4,
+    "matchConclusionStrategy": "MINIMUM",
+    "winners": 3,
+    "teamSize": 6,
+    "repeatableMatchUps": 0,
+    "stage": {
+      "id": 4665,
+      "availableLanguages": [
+        "en"
+      ],
+      "title": "Stage 1",
+      "tournament": {
+        "id": 3829,
+        "availableLanguages": [
+          "en"
+        ],
+        "game": "OVERWATCH",
+        "location": "Burbank, CA USA",
+        "featured": false,
+        "draft": false,
+        "handle": "tournament-0a2a4847-48c8-9a47-81dd-e5de499dd64d",
+        "title": "Overwatch League - Stage 1",
+        "attributes": {
+          "program": {
+            "environment": "prod",
+            "phase": "stage",
+            "season_id": "2018",
+            "stage": {
+              "format": "regular_season",
+              "number": 1
+            },
+            "type": "owl"
+          }
+        },
+        "attributesVersion": "1.0.0",
+        "subEvents": [
+          {
+            "id": 10394,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 20",
+            "startDate": 1518249600000,
+            "endDate": 1518249600000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10386,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 12",
+            "startDate": 1517040000000,
+            "endDate": 1517040000000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10387,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 13",
+            "startDate": 1517385600000,
+            "endDate": 1517385600000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10393,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 19",
+            "startDate": 1518163200000,
+            "endDate": 1518163200000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10376,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 6",
+            "startDate": 1516262400000,
+            "endDate": 1516262400000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10359,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 2",
+            "startDate": 1515657600000,
+            "endDate": 1515657600000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10360,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 4",
+            "startDate": 1515830400000,
+            "endDate": 1515830400000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10377,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 8",
+            "startDate": 1516435200000,
+            "endDate": 1516435200000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10383,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 9",
+            "startDate": 1516780800000,
+            "endDate": 1516780800000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10385,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 10",
+            "startDate": 1516867200000,
+            "endDate": 1516867200000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10389,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 15",
+            "startDate": 1517558400000,
+            "endDate": 1517558400000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10390,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 16",
+            "startDate": 1517644800000,
+            "endDate": 1517644800000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10391,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 17",
+            "startDate": 1517990400000,
+            "endDate": 1517990400000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10087,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 1",
+            "startDate": 1515571200000,
+            "endDate": 1515571200000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10375,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 5",
+            "startDate": 1516176000000,
+            "endDate": 1516176000000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10378,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 7",
+            "startDate": 1516348800000,
+            "endDate": 1516348800000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10361,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 3",
+            "startDate": 1515744000000,
+            "endDate": 1515744000000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10384,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 11",
+            "startDate": 1516953600000,
+            "endDate": 1516953600000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10388,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 14",
+            "startDate": 1517472000000,
+            "endDate": 1517472000000,
+            "showStartTime": false,
+            "showEndTime": false
+          },
+          {
+            "id": 10392,
+            "availableLanguages": [
+              "en"
+            ],
+            "name": "Overwatch League - Stage 1 - Day 18",
+            "startDate": 1518076800000,
+            "endDate": 1518076800000,
+            "showStartTime": false,
+            "showEndTime": false
+          }
+        ],
+        "series": {
+          "id": 55
+        }
+      }
+    },
+    "type": "OPEN_MATCH",
+    "clientHints": [],
+    "advantageComparing": "AFTER_MATCH",
+    "thirdPlaceMatch": false,
+    "allowDraw": false
+  },
+  "dateCreated": 1507006990212,
+  "flags": [],
+  "handle": "match-532e23e8-83e8-ed4a-8dbc-c9ca36f4cc8d",
+  "startDate": 1515628800000,
+  "endDate": 1515636000000,
+  "showStartTime": true,
+  "showEndTime": true,
+  "rankings": [],
+  "meta": {
+    "strings": {
+      "owl.matches.countdown.unit.days": "Days",
+      "owl.matches.countdown.unit.hours": "Hrs",
+      "owl.matches.countdown.unit.minutes": "Min",
+      "owl.matches.maps.title.upcoming": "Match Preview",
+      "owl.matches.maps.title.finished": "Match Summary",
+      "owl.matches.game": "Game ##",
+      "owl.matches.game.final": "Final",
+      "owl.matches.game.final-ot": "Final (OT)",
+      "owl.matches.game.overview": "Overview",
+      "owl.matches.game.type": "## Map Set",
+      "owl.matches.game.type.minimum": "{0} Map Set",
+      "owl.matches.game.type.best-of": "Best of {0}",
+      "owl.matches.game.result": "Game Result",
+      "owl.matches.game.roster": "Roster",
+      "owl.matches.pagination.previous": "Prev Match",
+      "owl.matches.pagination.versus": "vs",
+      "owl.matches.pagination.next": "Next Match",
+      "owl.players.roles.tank": "Tank",
+      "owl.players.roles.offense": "Offense",
+      "owl.players.roles.defense": "Defense",
+      "owl.players.roles.support": "Support",
+      "owl.players.roles.flex": "Flex"
+    }
+  }
+}
