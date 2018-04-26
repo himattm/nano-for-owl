@@ -42,5 +42,5 @@ dependencies {
     implementation Libs.appCenterCrashes
     implementation Libs.appCenterAnalytics
 
-    compile project(path: ':core')
+    implementation project(path: ':core')
 }
