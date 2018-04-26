@@ -1,4 +1,4 @@
-package io.github.matthewcmckenna.owl.nano.logging.timber
+package io.github.matthewcmckenna.owl.nano.core.timber
 
 import android.util.Log
 import com.microsoft.appcenter.analytics.Analytics

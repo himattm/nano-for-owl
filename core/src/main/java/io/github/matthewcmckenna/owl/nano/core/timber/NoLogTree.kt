@@ -1,4 +1,4 @@
-package io.github.matthewcmckenna.owl.nano.logging.timber
+package io.github.matthewcmckenna.owl.nano.core.timber
 
 import timber.log.Timber
 

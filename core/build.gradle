@@ -29,10 +29,13 @@ dependencies {
     implementation Libs.support_appcompat_v7
     implementation Libs.kotlin
 
+    implementation Libs.appCenterCrashes
+    implementation Libs.appCenterAnalytics
+    implementation Libs.timber
+
     testImplementation TestLibs.junit
     androidTestImplementation TestLibs.android_runner
     androidTestImplementation TestLibs.espresso_core
-
 }
 repositories {
     mavenCentral()
