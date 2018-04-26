@@ -4,7 +4,7 @@ import android.app.PictureInPictureParams
 import android.content.res.Configuration
 import android.os.Build
 import android.os.Bundle
-import android.support.annotation.RequiresApi
+import android.os.PersistableBundle
 import android.support.v4.media.session.MediaSessionCompat
 import android.support.v7.app.AppCompatActivity
 import android.util.Rational
@@ -22,9 +22,18 @@ class PlayerActivity : AppCompatActivity() {
 
     private lateinit var mediaSession: MediaSessionCompat
     private lateinit var connector: MediaSessionConnector
+
+    private var showControls = true
+    private var playbackPosition = 0L
+
+    private val KEY_SHOW_CONTROLS = "KEY_SHOW_CONTROLS"
+    private val KEY_PLAYBACK_POSITION = "KEY_PLAYBACK_POSITION"
+
     override fun onCreate(savedInstanceState: Bundle?) {
+        Timber.v("onCreate()")
         super.onCreate(savedInstanceState)
         setContentView(player_activity)
+
         mediaSession = MediaSessionCompat(this, "io.github.matthewcmckenna.owl.nano.features.video")
         connector = MediaSessionConnector(mediaSession)
 
@@ -39,6 +48,7 @@ class PlayerActivity : AppCompatActivity() {
     }
 
     override fun onStart() {
+        Timber.v("onStart()")
         super.onStart()
         playerHolder.start()
 
@@ -46,7 +56,18 @@ class PlayerActivity : AppCompatActivity() {
         mediaSession.isActive = true
     }
 
+    override fun onResume() {
+        Timber.v("onResume()")
+        super.onResume()
+    }
+
+    override fun onPause() {
+        Timber.v("onPause()")
+        super.onPause()
+    }
+
     override fun onStop() {
+        Timber.v("onStop()")
         super.onStop()
         playerHolder.stop()
         connector.setPlayer(null, null)
@@ -54,13 +75,33 @@ class PlayerActivity : AppCompatActivity() {
     }
 
     override fun onDestroy() {
+        Timber.v("onDestroy()")
         super.onDestroy()
         mediaSession.release()
         playerHolder.release()
     }
 
+    override fun onSaveInstanceState(outState: Bundle?) {
+        Timber.v("onSaveInstanceState( $outState )")
+        super.onSaveInstanceState(outState)
+        Timber.d("saving showControls=$showControls, playbackPosition=$playbackPosition")
+        outState?.putBoolean(KEY_SHOW_CONTROLS, showControls)
+        outState?.putLong(KEY_PLAYBACK_POSITION, playbackPosition)
+    }
+
+    override fun onRestoreInstanceState(savedInstanceState: Bundle?) {
+        Timber.v("onRestoreInstanceState( $savedInstanceState )")
+        super.onRestoreInstanceState(savedInstanceState)
+        showControls = savedInstanceState?.getBoolean(KEY_SHOW_CONTROLS) ?: true
+        playbackPosition = savedInstanceState?.getLong(KEY_PLAYBACK_POSITION) ?: 0
+
+        exoplayer_view.useController = showControls
+        playerHolder.player.seekTo(playbackPosition)
+        Timber.d("showControls=$showControls, playbackPosition=$playbackPosition")
+    }
+
     override fun onUserLeaveHint() {
-        Timber.d("onUserLeaveHint")
+        Timber.v("onUserLeaveHint()")
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             enterPictureInPictureMode(
                     with(PictureInPictureParams.Builder()) {
@@ -74,8 +115,11 @@ class PlayerActivity : AppCompatActivity() {
     }
 
     override fun onPictureInPictureModeChanged(isInPictureInPictureMode: Boolean, newConfig: Configuration?) {
-        Timber.d("isInPictureInPictureMode=$isInPictureInPictureMode")
-        exoplayer_view.useController = !isInPictureInPictureMode
+        Timber.v("onPictureInPictureModeChanged( $isInPictureInPictureMode )")
+        Timber.d("before showControls=$showControls, playbackPosition=$playbackPosition")
+        showControls = !isInPictureInPictureMode
+        playbackPosition = playerHolder.player.currentPosition
+        Timber.d("after showControls=$showControls, playbackPosition=$playbackPosition")
         super.onPictureInPictureModeChanged(isInPictureInPictureMode, newConfig)
     }
 

@@ -9,6 +9,7 @@ import android.support.annotation.RequiresApi
 import android.support.v4.media.AudioAttributesCompat
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.SimpleExoPlayer
+import timber.log.Timber
 
 class NanoPlayer(private val audioAttributes: AudioAttributesCompat,
                  private val audioManager: AudioManager,
@@ -62,7 +63,7 @@ class NanoPlayer(private val audioAttributes: AudioAttributesCompat,
             shouldPlayWhenReady = true
             audioFocusListener.onAudioFocusChange(AudioManager.AUDIOFOCUS_GAIN)
         } else {
-//            warn { "Playback not started: Audio focus request denied" }
+            Timber.w("Playback not started: Audio focus request denied")
         }
     }
 
@@ -71,7 +72,7 @@ class NanoPlayer(private val audioAttributes: AudioAttributesCompat,
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             abandonAudioFocusOreo()
         } else {
-            @Suppress("deprecation")
+            // FIXME deprecation
             audioManager.abandonAudioFocus(audioFocusListener)
         }
     }
