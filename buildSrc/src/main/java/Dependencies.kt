@@ -6,7 +6,7 @@ object Versions {
     const val versionName = "0.0"
 
     const val kotlin = "1.2.31"
-    const val android_gradle_plugin = "3.1.0"
+    const val android_gradle_plugin = "3.1.1"
     const val rxJava = "2.0.2"
     const val rxKotlin = "2.1.0"
     const val rxAndroid = "2.0.1"
