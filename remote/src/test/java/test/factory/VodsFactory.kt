@@ -15,11 +15,11 @@ class VodsFactory {
         fun makeVodsResponse() = VodsResponse(data = makeVodDataItemList(5))
 
         fun makeVodDataItemList(count: Int): List<DataItem> {
-            val bufferooEntities = mutableListOf<DataItem>()
+            val vodEntities = mutableListOf<DataItem>()
             repeat(count) {
-                bufferooEntities.add(makeVodsDataItem())
+                vodEntities.add(makeVodsDataItem())
             }
-            return bufferooEntities
+            return vodEntities
         }
 
         fun makeVodsDataItem() = DataItem(
