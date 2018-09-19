@@ -28,7 +28,7 @@ dependencies {
     androidTestImplementation TestLibs.espresso_core
 
     implementation Libs.kotlin
-    implementation Libs.rxjava
+    implementation Libs.rxJava
     implementation Libs.support_appcompat_v7
     implementation Libs.animated_vector_drawable
     implementation Libs.support_media_compat

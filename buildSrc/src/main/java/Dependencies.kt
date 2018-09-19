@@ -5,8 +5,8 @@ object Versions {
     const val versionCode = 1
     const val versionName = "0.0"
 
-    const val kotlin = "1.2.31"
-    const val android_gradle_plugin = "3.1.1"
+    const val kotlin = "1.2.70"
+    const val android_gradle_plugin = "3.2.0-rc03"
     const val rxJava = "2.0.2"
     const val rxKotlin = "2.1.0"
     const val rxAndroid = "2.0.1"
@@ -19,21 +19,24 @@ object Versions {
     const val supportLibrary = "27.1.1"
     const val timber = "4.5.1"
     const val glide = "4.0.0"
-    const val koin = "2.11"
     const val exoplayer = "2.7.0"
     const val constraintLayout = "1.0.2"
     const val junit = "4.12"
     const val android_support_test_runner = "1.0.0"
     const val espresso_core = "3.0.1"
+    const val dagger = "2.13"
 
     const val appCenterSdkVersion = "1.4.0"
+
+    const val mockitoVersion = "2.22.0"
+    const val mockitoKotlinVersion = "2.0.0-RC2"
 }
 
 object Libs {
-    const val kotlin = "org.jetbrains.kotlin:kotlin-stdlib-jre8:${Versions.kotlin}"
+    const val kotlin = "org.jetbrains.kotlin:kotlin-stdlib-jdk8:${Versions.kotlin}"
     const val kotlin_gradle_plugin = "org.jetbrains.kotlin:kotlin-gradle-plugin:${Versions.kotlin}"
     const val android_gradle_plugin = "com.android.tools.build:gradle:${Versions.android_gradle_plugin}"
-    const val rxjava = "io.reactivex.rxjava2:rxjava:${Versions.rxJava}"
+    const val rxJava = "io.reactivex.rxjava2:rxjava:${Versions.rxJava}"
     const val rxKotlin = "io.reactivex.rxjava2:rxkotlin:${Versions.rxKotlin}"
     const val rxAndroid = "io.reactivex.rxjava2:rxandroid:${Versions.rxAndroid}"
     const val javaxAnnotation = "javax.annotation:jsr250-api:${Versions.javaxAnnotation}"
@@ -53,6 +56,7 @@ object Libs {
     const val exoplayerHls = "com.google.android.exoplayer:exoplayer-hls:${Versions.exoplayer})"
     const val exoplayerDash = "com.google.android.exoplayer:exoplayer-dash:${Versions.exoplayer})"
     const val exoplayerMediaSession = "com.google.android.exoplayer:extension-mediasession:${Versions.exoplayer}"
+    const val dagger = "com.google.dagger:dagger:${Versions.dagger}"
 
     const val support_appcompat_v7 = "com.android.support:appcompat-v7:${Versions.supportLibrary}"
     const val animated_vector_drawable = "com.android.support:animated-vector-drawable:${Versions.supportLibrary}"
@@ -68,4 +72,6 @@ object TestLibs {
     const val junit = "junit:junit:${Versions.junit}"
     const val android_runner = "com.android.support.test:runner:${Versions.android_support_test_runner}"
     const val espresso_core = "com.android.support.test.espresso:espresso-core:${Versions.espresso_core}"
+    const val mockito = "org.mockito:mockito-core:${Versions.mockitoVersion}"
+    const val mockitoKotlin = "com.nhaarman.mockitokotlin2:mockito-kotlin:${Versions.mockitoKotlinVersion}"
 }

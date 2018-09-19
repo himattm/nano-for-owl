@@ -14,11 +14,15 @@ dependencies {
     implementation Libs.retrofit
     implementation Libs.retrofit_gson_converter
     implementation Libs.retrofit_rxjava_adapter
+    implementation Libs.dagger
 
     testImplementation TestLibs.junit
+    testImplementation TestLibs.mockito
+    testImplementation TestLibs.mockitoKotlin
+
+    implementation project(path: ':data')
 }
 buildscript {
-    ext.kotlin_version = '1.2.31'
     repositories {
         mavenCentral()
     }

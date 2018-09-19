@@ -1,7 +1,7 @@
-package io.github.matthewcmckenna.owl.nano.remote.model.vods
+package io.github.matthewcmckenna.owl.nano.remote.vods.model
 
-import javax.annotation.Generated
 import com.google.gson.annotations.SerializedName
+import javax.annotation.Generated
 
 @Generated("com.robohorse.robopojogenerator")
 data class VodsResponse(

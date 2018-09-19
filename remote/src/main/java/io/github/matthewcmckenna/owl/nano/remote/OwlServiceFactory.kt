@@ -3,7 +3,6 @@ package io.github.matthewcmckenna.owl.nano.remote
 import com.google.gson.FieldNamingPolicy
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
-import io.github.matthewcmckenna.owl.nano.remote.OwlService
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
@@ -12,6 +11,8 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
 object OwlServiceFactory {
+
+    private const val BASE_URL = "https://api.overwatchleague.com/"
 
     fun makeOwlService(isDebug: Boolean): OwlService {
         val okHttpClient = makeOkHttpClient(
@@ -22,7 +23,7 @@ object OwlServiceFactory {
 
     private fun makeOwlService(okHttpClient: OkHttpClient, gson: Gson): OwlService {
         val retrofit = Retrofit.Builder()
-                .baseUrl("https://api.overwatchleague.com/")
+                .baseUrl(BASE_URL)
                 .client(okHttpClient)
                 .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
                 .addConverterFactory(GsonConverterFactory.create(gson))
