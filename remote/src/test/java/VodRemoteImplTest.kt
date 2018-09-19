@@ -14,7 +14,7 @@ import test.factory.VodsFactory
 
 
 @RunWith(JUnit4::class)
-class BufferooRemoteImplTest {
+class VodRemoteImplTest {
 
     private lateinit var entityMapper: VodsEntityMapper
     private lateinit var vodService: OwlService
